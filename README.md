@@ -19,6 +19,7 @@ The parser prints the results directly at the terminal.
 **LauraSantaCruzUniProtParser3.py**\
 Built-on version of the previous parser including a simple GUI from tkinter to better visualize the results. It inherits the functionallities from the Parser2.py.
 The user must select the directory where the data files are located. Then the GUI will show the found files in the first column, the functionallities that can be used in the second one and the results in the third. The functionallity must be clicked twice after a file has been selected to display the results.
+It also uses some widgets (files starting with DG) to implement the scroll bar functionallity and the status bar at the bottom. 
 
 Example usage: python3 LauraSantaCruzUniProtParser3.py
 
