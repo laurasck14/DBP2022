@@ -1,6 +1,6 @@
-Databases and Practical programming course 2022 at the University of Potsdam (Msc Bioinformatics).
+# Databases and Practical programming
 
-This code is and exercise from the Databases and Practical Programming course from the Msc Bioinformatics at the University of Potsdam. The goal was to create file parser for UniProt data files in order to extract relevant information from them (uniprot-microsporidian-data-2022-02.dat file for example file).
+This code is and exercise from the Databases and Practical Programming course from the Msc Bioinformatics at the University of Potsdam (2022). The goal was to create file parser for UniProt data files in order to extract relevant information from them (uniprot-microsporidian-data-2022-02.dat file for example file).
 
 **LauraSantaCruzUniProtParser2.py**\
 Simple terminal parser to extract all the KEGGS and Gene Ontology (GO) IDs from un/compressed Uniprot datafiles.
